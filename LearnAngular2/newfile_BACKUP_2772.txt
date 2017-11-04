@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-NEW CHANGE123
-=======
-XXXNEW CHANGEV
->>>>>>> fc95f84a66212a5ad636ed0af59122cfe210d527
